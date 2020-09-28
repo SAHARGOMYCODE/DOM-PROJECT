@@ -1,0 +1,33 @@
+body {
+  overflow-x: hidden;
+}
+.marque {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 20px;
+  color: darkcyan;
+  margin-right: 60%;
+}
+
+.price {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 20px;
+  color: crimson;
+  margin-right: 60%;
+}
+.image1 {
+  text-align: center;
+}
+.image2 {
+  text-align: center;
+}
+.image3 {
+  text-align: center;
+}
+.fas {
+  margin-left: 15%;
+}
+.close {
+  float: right;
+}
